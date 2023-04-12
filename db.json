@@ -1,0 +1,166 @@
+{
+  "skills": [
+        {
+            "tag": "html",
+            "name": "HTML",
+            "percentage": 50,
+            "color": "#FF6A00",
+            "icon": "html.svg"
+        },
+        {
+            "tag": "css",
+            "name": "CSS",
+            "percentage": 40,
+            "color": "#3C52FF",
+            "icon": "css.svg"
+        },
+        {
+            "tag": "js",
+            "name": "JavaScript",
+            "percentage": 30,
+            "color": "#FFFF00",
+            "icon": "js.svg"
+        },
+        {
+            "tag": "py",
+            "name": "Python",
+            "percentage": 10,
+            "color": "#3C52AA",
+            "icon": "python.svg"
+        },
+        {
+            "tag": "java",
+            "name": "Java",
+            "percentage": 10,
+            "color": "#FFA500",
+            "icon": "java.svg"
+        },
+        {
+            "tag": "php",
+            "name": "PHP",
+            "percentage": 10,
+            "color": "#724ED4",
+            "icon": "php.svg"
+        },
+        {
+            "tag": "dj",
+            "name": "Django",
+            "percentage": 10,
+            "color": "#206329",
+            "icon": "django.svg"
+        },
+        {
+            "tag": "rct",
+            "name": "React",
+            "percentage": 10,
+            "color": "#007BFF",
+            "icon": "react.svg"
+        },
+        {
+            "tag": "wp",
+            "name": "Wordpress",
+            "percentage": 10,
+            "color": "#0B3E75",
+            "icon": "wordpress.svg"
+        },
+        {
+            "tag": "fgm",
+            "name": "Figma",
+            "percentage": 10,
+            "color": "#1EF013",
+            "icon": "figma.svg"
+        }
+  ],
+  "projects": [
+        {   
+            "id": 1,
+            "name": "Projeto X",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 2,
+            "name": "Projeto Y",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 3,
+            "name": "Projeto Z",
+            "tags": ["py", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 4,
+            "name": "Projeto A",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 5,
+            "name": "Projeto B",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 6,
+            "name": "Projeto C",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 7,
+            "name": "Projeto D",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 8,
+            "name": "Projeto E",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 9,
+            "name": "Projeto F",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {   
+            "id": 10,
+            "name": "Projeto G",
+            "tags": ["html", "css", "js"],
+            "imageName": "project.png",
+            "projectUrl": "#",
+            "githubUrl": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+    ]
+}
