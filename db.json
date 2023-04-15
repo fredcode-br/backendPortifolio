@@ -1,166 +1,277 @@
 {
-  "skills": [
+    "projects": [
+        {
+            "id": 1,
+            "name": "Calculadora JavaScript",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "calculadorajs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/calculadora/",
+            "githubUrl": "https://github.com/frederico-rufino/calculadora-js",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "Relógio JavaScript",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "relogiojs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/relogio/",
+            "githubUrl": "https://github.com/frederico-rufino/relogio-digital-js",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Mario Game JS",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "mariogamejs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/mario-game/",
+            "githubUrl": "https://github.com/frederico-rufino/mario-game-js",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "Music Player JS",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "musicplayerjs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/music-player/",
+            "githubUrl": "https://github.com/frederico-rufino/music-player-js",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "CRUD JavaScript ",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "crudjs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/crud/",
+            "githubUrl": "https://github.com/frederico-rufino/crud-js",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "name": "To-do List JavaScript ",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "todojs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/todo-list/",
+            "githubUrl": "https://github.com/frederico-rufino/todo-list-js",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "name": "Landing Page Wordpress",
+            "tags": [
+                "html",
+                "css",
+                "wp",
+                "php"
+            ],
+            "imageName": "landingpagewp.png",
+            "projectUrl": "https://bit.ly/landingpageWP",
+            "githubUrl": "https://github.com/frederico-rufino/landing-page-wordpress-theme",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "name": "Portifólio Wordpress",
+            "tags": [
+                "html",
+                "css",
+                "wp",
+                "php"
+            ],
+            "imageName": "portifoliowp.png",
+            "projectUrl": "https://bit.ly/portifolioWP",
+            "githubUrl": "https://github.com/frederico-rufino/portifolio-wordpress-theme",
+            "description": ""
+        },
+        {
+            "id": 9,
+            "name": "CRUD PHP",
+            "tags": [
+                "html",
+                "css",
+                "php"
+            ],
+            "imageName": "crudphp.png",
+            "projectUrl": "",
+            "githubUrl": "",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "name": "Clima API OpenWeather",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "climaAPI.png",
+            "projectUrl": "http://fred-rufino.epizy.com/clima-OpenWeather/",
+            "githubUrl": "https://github.com/frederico-rufino/clima-API-OpenWeather",
+            "description": ""
+        },
+        {
+            "id": 11,
+            "name": "CRUD Fake API",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "crudfakeapi.png",
+            "projectUrl": "",
+            "githubUrl": "",
+            "description": ""
+        },
+        {
+            "id": 12,
+            "name": "Estacionamento - Django",
+            "tags": [
+                "html",
+                "css",
+                "py",
+                "dj"
+            ],
+            "imageName": "tbcar.png",
+            "projectUrl": "",
+            "githubUrl": "https://github.com/frederico-rufino/django-tbcar-mysql",
+            "description": ""
+        },
+        {
+            "id": 13,
+            "name": "Gerenciador de Projetos - React",
+            "tags": [
+                "html",
+                "css",
+                "js",
+                "rct"
+            ],
+            "imageName": "costs.png",
+            "projectUrl": "",
+            "githubUrl": "",
+            "description": ""
+        },
+        {
+            "id": 14,
+            "name": "Portifólio - React",
+            "tags": [
+                "html",
+                "css",
+                "js",
+                "rct"
+            ],
+            "imageName": "portifolioreact.png",
+            "projectUrl": "",
+            "githubUrl": "",
+            "description": ""
+        },
+        {
+            "id": 15,
+            "name": "CarShop - Django",
+            "tags": [
+                "html",
+                "css",
+                "py",
+                "dj"
+            ],
+            "imageName": "carshop.png",
+            "projectUrl": "",
+            "githubUrl": "",
+            "description": ""
+        }
+    ],
+    "skills": [
         {
             "tag": "html",
             "name": "HTML",
-            "percentage": 50,
+            "percentage": 70,
             "color": "#FF6A00",
             "icon": "html.svg"
         },
         {
             "tag": "css",
             "name": "CSS",
-            "percentage": 40,
+            "percentage": 70,
             "color": "#3C52FF",
             "icon": "css.svg"
         },
         {
             "tag": "js",
             "name": "JavaScript",
-            "percentage": 30,
+            "percentage": 60,
             "color": "#FFFF00",
             "icon": "js.svg"
         },
         {
             "tag": "py",
             "name": "Python",
-            "percentage": 10,
+            "percentage": 50,
             "color": "#3C52AA",
             "icon": "python.svg"
         },
         {
             "tag": "java",
             "name": "Java",
-            "percentage": 10,
+            "percentage": 20,
             "color": "#FFA500",
             "icon": "java.svg"
         },
         {
             "tag": "php",
             "name": "PHP",
-            "percentage": 10,
+            "percentage": 40,
             "color": "#724ED4",
             "icon": "php.svg"
         },
         {
             "tag": "dj",
             "name": "Django",
-            "percentage": 10,
+            "percentage": 40,
             "color": "#206329",
             "icon": "django.svg"
         },
         {
             "tag": "rct",
             "name": "React",
-            "percentage": 10,
+            "percentage": 35,
             "color": "#007BFF",
             "icon": "react.svg"
         },
         {
             "tag": "wp",
             "name": "Wordpress",
-            "percentage": 10,
+            "percentage": 30,
             "color": "#0B3E75",
             "icon": "wordpress.svg"
         },
         {
             "tag": "fgm",
             "name": "Figma",
-            "percentage": 10,
+            "percentage": 70,
             "color": "#1EF013",
             "icon": "figma.svg"
-        }
-  ],
-  "projects": [
-        {   
-            "id": 1,
-            "name": "Projeto X",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 2,
-            "name": "Projeto Y",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 3,
-            "name": "Projeto Z",
-            "tags": ["py", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 4,
-            "name": "Projeto A",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 5,
-            "name": "Projeto B",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 6,
-            "name": "Projeto C",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 7,
-            "name": "Projeto D",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 8,
-            "name": "Projeto E",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 9,
-            "name": "Projeto F",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        },
-        {   
-            "id": 10,
-            "name": "Projeto G",
-            "tags": ["html", "css", "js"],
-            "imageName": "project.png",
-            "projectUrl": "#",
-            "githubUrl": "#",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
         }
     ]
 }
