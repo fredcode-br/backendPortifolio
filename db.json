@@ -155,7 +155,7 @@
                 "dj"
             ],
             "imageName": "tbcar.png",
-            "projectUrl": "tbcar.up.railway.app",
+            "projectUrl": "https://tbcar.up.railway.app",
             "githubUrl": "https://github.com/frederico-rufino/django-tbcar-mysql",
             "description": "Project developed in the classroom in order to learn about the Django framework."
         },
@@ -198,7 +198,7 @@
                 "dj"
             ],
             "imageName": "carshop.png",
-            "projectUrl": "carshopdjango.up.railway.app",
+            "projectUrl": "https://carshopdjango.up.railway.app/",
             "githubUrl": "https://github.com/frederico-rufino/django-carshop-postgreSQL",
             "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list."
         }
