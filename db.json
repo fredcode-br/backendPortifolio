@@ -1,6 +1,125 @@
 {
     "projects": [
         {
+            "id": 1,
+            "name": "JavaScript Calculator",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "calculadorajs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/calculadora/",
+            "githubUrl": "https://github.com/frederico-rufino/calculadora-js",
+            "description": "This project was made with the intention of learning about JavaScript."
+        },
+        {
+            "id": 2,
+            "name": "JavaScript Clock",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "relogiojs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/relogio/",
+            "githubUrl": "https://github.com/frederico-rufino/relogio-digital-js",
+            "description": "It is a simple application, where the focus is on the use of Date instances."
+        },
+        {
+            "id": 3,
+            "name": "Mario Game JS",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "mariogamejs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/mario-game/",
+            "githubUrl": "https://github.com/frederico-rufino/mario-game-js",
+            "description": "This game is a simple application, built using HTML, CSS, and JavaScript for study."
+        },
+        {
+            "id": 4,
+            "name": "Music Player JS",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "musicplayerjs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/music-player/",
+            "githubUrl": "https://github.com/frederico-rufino/music-player-js",
+            "description": "It is a simple application, where the focus is on the use of HTML Audio DOM."
+        },
+        {
+            "id": 5,
+            "name": "CRUD JavaScript ",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "crudjs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/crud/",
+            "githubUrl": "https://github.com/frederico-rufino/crud-js",
+            "description": "Simple project, with a main focus on JavaScript. The data was stored in the browser's LocalStorage."
+        },
+        {
+            "id": 6,
+            "name": "To-do List JavaScript ",
+            "tags": [
+                "html",
+                "css",
+                "js"
+            ],
+            "imageName": "todojs.png",
+            "projectUrl": "http://fred-rufino.epizy.com/todo-list/",
+            "githubUrl": "https://github.com/frederico-rufino/todo-list-js",
+            "description": "Simple project, developed with the purpose of learning JavaScript."
+        },
+        {
+            "id": 7,
+            "name": "Landing Page Wordpress",
+            "tags": [
+                "html",
+                "css",
+                "wp",
+                "php"
+            ],
+            "imageName": "landingpagewp.png",
+            "projectUrl": "https://bit.ly/landingpageWP",
+            "githubUrl": "https://github.com/frederico-rufino/landing-page-wordpress-theme",
+            "description": "This is a simple theme for wordpress. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
+        },
+        {
+            "id": 8,
+            "name": "Portifólio Wordpress",
+            "tags": [
+                "html",
+                "css",
+                "wp",
+                "php"
+            ],
+            "imageName": "portifoliowp.png",
+            "projectUrl": "https://bit.ly/portifolioWP",
+            "githubUrl": "https://github.com/frederico-rufino/portifolio-wordpress-theme",
+            "description": "This is a simple theme for wordpress. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
+        },
+        {
+            "id": 9,
+            "name": "CRUD PHP",
+            "tags": [
+                "html",
+                "css",
+                "php"
+            ],
+            "imageName": "crudphp.png",
+            "projectUrl": "https://fred-crud-php.000webhostapp.com/",
+            "githubUrl": "https://github.com/frederico-rufino/crud-php",
+            "description": "This project is a simple system CRUD in php."
+        },
+        {
             "id": 10,
             "name": "Clima API OpenWeather",
             "tags": [
@@ -11,7 +130,7 @@
             "imageName": "climaAPI.png",
             "projectUrl": "http://fred-rufino.epizy.com/clima-OpenWeather/",
             "githubUrl": "https://github.com/frederico-rufino/clima-API-OpenWeather",
-            "description": "It's a simple system integrating a public API with javascripts, but perfect for studying the use of API's."
+            "description": "It's a simple system integrating a public API with javascript."
         },
         {
             "id": 11,
@@ -24,7 +143,7 @@
             "imageName": "crudfakeapi.png",
             "projectUrl": "http://fred-rufino.epizy.com/crud-fake-api/",
             "githubUrl": "https://github.com/frederico-rufino/crud-fake-API",
-            "description": "It's a simple system integrating an API with javascripts, but perfect for studying the use of API's. As this is a fake api, any editing or deletion will not actually be performed, although the logic has been developed."
+            "description": "It's a simple system integrating an API with javascript.As this is a fake api, any editing or deletion will not actually be performed."
         },
         {
             "id": 12,
@@ -38,7 +157,7 @@
             "imageName": "tbcar.png",
             "projectUrl": "tbcar.up.railway.app",
             "githubUrl": "https://github.com/frederico-rufino/django-tbcar-mysql",
-            "description": "Project developed in the classroom in order to learn about the Django framework. A parking lot system was developed, where the amount to be paid is calculated according to the type of vehicle and the time parked."
+            "description": "Project developed in the classroom in order to learn about the Django framework."
         },
         {
             "id": 13,
@@ -52,7 +171,7 @@
             "imageName": "costs.png",
             "projectUrl": "https://fred-costs.netlify.app/",
             "githubUrl": "https://github.com/frederico-rufino/costs-react",
-            "description": "This project was developed following the course of Matheus Battisti, in order to learn about react js to apply in future projects."
+            "description": "This project was developed following the course of Matheus Battisti."
         },
         {
             "id": 14,
@@ -66,7 +185,7 @@
             "imageName": "portifolioreact.png",
             "projectUrl": "https://fred-rufino.netlify.app/",
             "githubUrl": "https://github.com/frederico-rufino/portifolio-react-js",
-            "description": "This project was developed to expose projects in an easy and intuitive way, in addition to presenting user data and a contact form. The Frontend was developed in react while the backend will be developed in node.js."
+            "description": "This project was developed to expose projects in an easy and intuitive way."
         },
         {
             "id": 15,
@@ -81,7 +200,7 @@
             "imageName": "carshop.png",
             "projectUrl": "carshopdjango.up.railway.app",
             "githubUrl": "https://github.com/frederico-rufino/django-carshop-postgreSQL",
-            "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list, as well as filter this list by brand, category, price, year, and state."
+            "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list."
         }
     ],
     "skills": [
