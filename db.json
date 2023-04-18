@@ -2,7 +2,7 @@
     "projects": [
         {
             "id": 1,
-            "name": "Calculadora JavaScript",
+            "name": "JavaScript Calculator",
             "tags": [
                 "html",
                 "css",
@@ -11,11 +11,11 @@
             "imageName": "calculadorajs.png",
             "projectUrl": "http://fred-rufino.epizy.com/calculadora/",
             "githubUrl": "https://github.com/frederico-rufino/calculadora-js",
-            "description": "Este projeto foi feito com o intuito de aprendizagem sobre JavaScript. Se trada de uma aplicação simples."
+            "description": "This project was made with the intention of learning about JavaScript. It is a simple application. Some corrections were made to data entries in relation to the creator code."
         },
         {
             "id": 2,
-            "name": "Relógio JavaScript",
+            "name": "JavaScript Clock",
             "tags": [
                 "html",
                 "css",
@@ -24,7 +24,7 @@
             "imageName": "relogiojs.png",
             "projectUrl": "http://fred-rufino.epizy.com/relogio/",
             "githubUrl": "https://github.com/frederico-rufino/relogio-digital-js",
-            "description": ""
+            "description": "This project was made with the intention of learning about JavaScript. It is a simple application, where the focus is on the use of Date instances."
         },
         {
             "id": 3,
@@ -37,7 +37,7 @@
             "imageName": "mariogamejs.png",
             "projectUrl": "http://fred-rufino.epizy.com/mario-game/",
             "githubUrl": "https://github.com/frederico-rufino/mario-game-js",
-            "description": ""
+            "description": "This game is a simple application, built using HTML, CSS, and JavaScript for study. The project consist in a game whre the famous Mario has to jump over the obstacles that appear in his path, and, if he makes a mistake, a different image of the character is displayed and his position is locked, signaling his defeat."
         },
         {
             "id": 4,
@@ -50,7 +50,7 @@
             "imageName": "musicplayerjs.png",
             "projectUrl": "http://fred-rufino.epizy.com/music-player/",
             "githubUrl": "https://github.com/frederico-rufino/music-player-js",
-            "description": ""
+            "description": "This project was made with the intention of learning about JavaScript. Some changes were made in relation to the creator's project, adding parameters for returning and advancing songs, maintaining the current playback state (paused or playing), in addition to returning to the first song when reaching the end, or going to the last music if you press the button to go back to the first song in the album."
         },
         {
             "id": 5,
@@ -63,7 +63,7 @@
             "imageName": "crudjs.png",
             "projectUrl": "http://fred-rufino.epizy.com/crud/",
             "githubUrl": "https://github.com/frederico-rufino/crud-js",
-            "description": ""
+            "description": "Simple project, developed with learning objective. HTML, CSS and JavaScript languages ​​were used, with a main focus on JavaScript. The data was stored in the browser's LocalStorage."
         },
         {
             "id": 6,
@@ -76,7 +76,7 @@
             "imageName": "todojs.png",
             "projectUrl": "http://fred-rufino.epizy.com/todo-list/",
             "githubUrl": "https://github.com/frederico-rufino/todo-list-js",
-            "description": ""
+            "description": "Simple project, developed with the purpose of learning. HTML, CSS and JavaScript languages ​​were used, with a main focus on JavaScript."
         },
         {
             "id": 7,
@@ -90,7 +90,7 @@
             "imageName": "landingpagewp.png",
             "projectUrl": "https://bit.ly/landingpageWP",
             "githubUrl": "https://github.com/frederico-rufino/landing-page-wordpress-theme",
-            "description": ""
+            "description": "This project is a simple website, developed as a template for wordpress, with the aim of learning about the system. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
         },
         {
             "id": 8,
@@ -104,7 +104,7 @@
             "imageName": "portifoliowp.png",
             "projectUrl": "https://bit.ly/portifolioWP",
             "githubUrl": "https://github.com/frederico-rufino/portifolio-wordpress-theme",
-            "description": ""
+            "description": "This project is a simple website, developed as a template for wordpress, with the aim of learning about the system. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
         },
         {
             "id": 9,
@@ -115,9 +115,9 @@
                 "php"
             ],
             "imageName": "crudphp.png",
-            "projectUrl": "",
-            "githubUrl": "",
-            "description": ""
+            "projectUrl": "https://fred-crud-php.000webhostapp.com/",
+            "githubUrl": "https://github.com/frederico-rufino/crud-php",
+            "description": "This project is a simple system CRUD, developed with the purpose of increasing knowledge about php."
         },
         {
             "id": 10,
@@ -130,7 +130,7 @@
             "imageName": "climaAPI.png",
             "projectUrl": "http://fred-rufino.epizy.com/clima-OpenWeather/",
             "githubUrl": "https://github.com/frederico-rufino/clima-API-OpenWeather",
-            "description": ""
+            "description": "It's a simple system integrating a public API with javascripts, but perfect for studying the use of API's."
         },
         {
             "id": 11,
@@ -141,13 +141,13 @@
                 "js"
             ],
             "imageName": "crudfakeapi.png",
-            "projectUrl": "",
-            "githubUrl": "",
-            "description": ""
+            "projectUrl": "http://fred-rufino.epizy.com/crud-fake-api/",
+            "githubUrl": "https://github.com/frederico-rufino/crud-fake-API",
+            "description": "It's a simple system integrating an API with javascripts, but perfect for studying the use of API's. As this is a fake api, any editing or deletion will not actually be performed, although the logic has been developed."
         },
         {
             "id": 12,
-            "name": "Estacionamento - Django",
+            "name": "Estacionamento - Django + MySQL",
             "tags": [
                 "html",
                 "css",
@@ -155,9 +155,9 @@
                 "dj"
             ],
             "imageName": "tbcar.png",
-            "projectUrl": "",
+            "projectUrl": "tbcar.up.railway.app",
             "githubUrl": "https://github.com/frederico-rufino/django-tbcar-mysql",
-            "description": ""
+            "description": "Project developed in the classroom in order to learn about the Django framework. A parking lot system was developed, where the amount to be paid is calculated according to the type of vehicle and the time parked."
         },
         {
             "id": 13,
@@ -169,9 +169,9 @@
                 "rct"
             ],
             "imageName": "costs.png",
-            "projectUrl": "",
-            "githubUrl": "",
-            "description": ""
+            "projectUrl": "https://fred-costs.netlify.app/",
+            "githubUrl": "https://github.com/frederico-rufino/costs-react",
+            "description": "This project was developed following the course of Matheus Battisti, in order to learn about react js to apply in future projects."
         },
         {
             "id": 14,
@@ -183,23 +183,24 @@
                 "rct"
             ],
             "imageName": "portifolioreact.png",
-            "projectUrl": "",
-            "githubUrl": "",
-            "description": ""
+            "projectUrl": "https://fred-rufino.netlify.app/",
+            "githubUrl": "https://github.com/frederico-rufino/portifolio-react-js",
+            "description": "This project was developed to expose projects in an easy and intuitive way, in addition to presenting user data and a contact form. The Frontend was developed in react while the backend will be developed in node.js."
         },
         {
             "id": 15,
-            "name": "CarShop - Django",
+            "name": "CarShop - Django + PostgreSQL",
             "tags": [
                 "html",
                 "css",
+                "js",
                 "py",
                 "dj"
             ],
             "imageName": "carshop.png",
-            "projectUrl": "",
-            "githubUrl": "",
-            "description": ""
+            "projectUrl": "carshopdjango.up.railway.app",
+            "githubUrl": "https://github.com/frederico-rufino/django-carshop-postgreSQL",
+            "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list, as well as filter this list by brand, category, price, year, and state."
         }
     ],
     "skills": [
