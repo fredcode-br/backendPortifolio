@@ -90,7 +90,7 @@
             "imageName": "landingpagewp.png",
             "projectUrl": "https://bit.ly/landingpageWP",
             "githubUrl": "https://github.com/frederico-rufino/landing-page-wordpress-theme",
-            "description": "This is a simple theme for wordpress. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
+            "description": "As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
         },
         {
             "id": 8,
@@ -104,7 +104,7 @@
             "imageName": "portifoliowp.png",
             "projectUrl": "https://bit.ly/portifolioWP",
             "githubUrl": "https://github.com/frederico-rufino/portifolio-wordpress-theme",
-            "description": "This is a simple theme for wordpress. As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
+            "description": "As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
         },
         {
             "id": 9,
@@ -143,7 +143,7 @@
             "imageName": "crudfakeapi.png",
             "projectUrl": "http://fred-rufino.epizy.com/crud-fake-api/",
             "githubUrl": "https://github.com/frederico-rufino/crud-fake-API",
-            "description": "It's a simple system integrating an API with javascript.As this is a fake api, any editing or deletion will not actually be performed."
+            "description": "As this is a fake api, any editing or deletion will not actually be performed."
         },
         {
             "id": 12,
@@ -211,7 +211,7 @@
             "imageName": "sorting.png",
             "projectUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
             "githubUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
-            "description": "The logic of three algorithms was built, bubble sort, select sort and insert sort. With the purpose of study, the language used to develop the codes was java."
+            "description": "The logic of three algorithms was built, bubble sort, select sort and insert sort."
         },
         {
             "id": 17,
@@ -222,7 +222,7 @@
             "imageName": "bseacrch.png",
             "projectUrl": "https://github.com/frederico-rufino/java-binary-search",
             "githubUrl": "https://github.com/frederico-rufino/java-binary-search",
-            "description": "Project developed to review a binary search algorithm. It was developed using the insert surt to order the numbers before to do a search."
+            "description": "It was developed using the insert surt to order the numbers before to do a search."
         },
         {
             "id": 18,
@@ -233,7 +233,7 @@
             "imageName": "tree.png",
             "projectUrl": "https://github.com/frederico-rufino/java-tree-structure",
             "githubUrl": "https://github.com/frederico-rufino/java-tree-structure",
-            "description": "It was developed using java with purpose of study this language. Algorithms were developed to fill a tree and traverse the tree in pre-order, post-order and in-order."
+            "description": "Algorithms were developed to fill a tree and traverse the tree in pre-order, post-order and in-order."
         },
         {
             "id": 19,
