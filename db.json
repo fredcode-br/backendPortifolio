@@ -9,8 +9,8 @@
                 "js"
             ],
             "imageName": "calculadorajs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/calculadora/",
-            "githubUrl": "https://github.com/frederico-rufino/calculadora-js",
+            "projectUrl": "fred-rufino.epizy.com/calculadora/",
+            "githubUrl": "github.com/frederico-rufino/calculadora-js",
             "description": "This project was made with the intention of learning about JavaScript."
         },
         {
@@ -22,8 +22,8 @@
                 "js"
             ],
             "imageName": "relogiojs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/relogio/",
-            "githubUrl": "https://github.com/frederico-rufino/relogio-digital-js",
+            "projectUrl": "fred-rufino.epizy.com/relogio/",
+            "githubUrl": "github.com/frederico-rufino/relogio-digital-js",
             "description": "It is a simple application, where the focus is on the use of Date instances."
         },
         {
@@ -35,8 +35,8 @@
                 "js"
             ],
             "imageName": "mariogamejs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/mario-game/",
-            "githubUrl": "https://github.com/frederico-rufino/mario-game-js",
+            "projectUrl": "fred-rufino.epizy.com/mario-game/",
+            "githubUrl": "github.com/frederico-rufino/mario-game-js",
             "description": "This game is a simple application, built using HTML, CSS, and JavaScript for study."
         },
         {
@@ -48,8 +48,8 @@
                 "js"
             ],
             "imageName": "musicplayerjs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/music-player/",
-            "githubUrl": "https://github.com/frederico-rufino/music-player-js",
+            "projectUrl": "fred-rufino.epizy.com/music-player/",
+            "githubUrl": "github.com/frederico-rufino/music-player-js",
             "description": "It is a simple application, where the focus is on the use of HTML Audio DOM."
         },
         {
@@ -61,9 +61,9 @@
                 "js"
             ],
             "imageName": "crudjs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/crud/",
-            "githubUrl": "https://github.com/frederico-rufino/crud-js",
-            "description": "Simple project, with a main focus on JavaScript. The data was stored in the browser's LocalStorage."
+            "projectUrl": "fred-rufino.epizy.com/crud/",
+            "githubUrl": "github.com/frederico-rufino/crud-js",
+            "description": "Simple JavaScript project. The data was stored in the browser's LocalStorage."
         },
         {
             "id": 6,
@@ -74,8 +74,8 @@
                 "js"
             ],
             "imageName": "todojs.png",
-            "projectUrl": "http://fred-rufino.epizy.com/todo-list/",
-            "githubUrl": "https://github.com/frederico-rufino/todo-list-js",
+            "projectUrl": "fred-rufino.epizy.com/todo-list/",
+            "githubUrl": "github.com/frederico-rufino/todo-list-js",
             "description": "Simple project, developed with the purpose of learning JavaScript."
         },
         {
@@ -88,26 +88,12 @@
                 "php"
             ],
             "imageName": "landingpagewp.png",
-            "projectUrl": "https://bit.ly/landingpageWP",
-            "githubUrl": "https://github.com/frederico-rufino/landing-page-wordpress-theme",
-            "description": "As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
+            "projectUrl": "bit.ly/landingpageWP",
+            "githubUrl": "github.com/frederico-rufino/landing-page-wordpress-theme",
+            "description": "As the objective was to learn about structuring a php template for wordpress."
         },
         {
             "id": 8,
-            "name": "Portifólio Wordpress",
-            "tags": [
-                "html",
-                "css",
-                "wp",
-                "php"
-            ],
-            "imageName": "portifoliowp.png",
-            "projectUrl": "https://bit.ly/portifolioWP",
-            "githubUrl": "https://github.com/frederico-rufino/portifolio-wordpress-theme",
-            "description": "As the objective was to learn about structuring a php template for wordpress, the project was not developed in a responsive way."
-        },
-        {
-            "id": 9,
             "name": "CRUD PHP",
             "tags": [
                 "html",
@@ -115,12 +101,12 @@
                 "php"
             ],
             "imageName": "crudphp.png",
-            "projectUrl": "https://fred-crud-php.000webhostapp.com/",
-            "githubUrl": "https://github.com/frederico-rufino/crud-php",
+            "projectUrl": "fred-crud-php.000webhostapp.com/",
+            "githubUrl": "github.com/frederico-rufino/crud-php",
             "description": "This project is a simple system CRUD in php."
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "Clima API OpenWeather",
             "tags": [
                 "html",
@@ -128,25 +114,12 @@
                 "js"
             ],
             "imageName": "climaAPI.png",
-            "projectUrl": "http://fred-rufino.epizy.com/clima-OpenWeather/",
-            "githubUrl": "https://github.com/frederico-rufino/clima-API-OpenWeather",
-            "description": "It's a simple system integrating a public API with javascript."
+            "projectUrl": "fred-rufino.epizy.com/clima-OpenWeather/",
+            "githubUrl": "github.com/frederico-rufino/clima-API-OpenWeather",
+            "description": "It's a simple system integrating a public API."
         },
         {
-            "id": 11,
-            "name": "CRUD Fake API",
-            "tags": [
-                "html",
-                "css",
-                "js"
-            ],
-            "imageName": "crudfakeapi.png",
-            "projectUrl": "http://fred-rufino.epizy.com/crud-fake-api/",
-            "githubUrl": "https://github.com/frederico-rufino/crud-fake-API",
-            "description": "As this is a fake api, any editing or deletion will not actually be performed."
-        },
-        {
-            "id": 12,
+            "id": 10,
             "name": "Estacionamento - Django + MySQL",
             "tags": [
                 "html",
@@ -155,12 +128,12 @@
                 "dj"
             ],
             "imageName": "tbcar.png",
-            "projectUrl": "https://tbcar.up.railway.app",
-            "githubUrl": "https://github.com/frederico-rufino/django-tbcar-mysql",
+            "projectUrl": "tbcar.up.railway.app",
+            "githubUrl": "github.com/frederico-rufino/django-tbcar-mysql",
             "description": "Project developed in the classroom in order to learn about the Django framework."
         },
         {
-            "id": 13,
+            "id": 11,
             "name": "Gerenciador de Projetos - React",
             "tags": [
                 "html",
@@ -169,12 +142,12 @@
                 "rct"
             ],
             "imageName": "costs.png",
-            "projectUrl": "https://fred-costs.netlify.app/",
-            "githubUrl": "https://github.com/frederico-rufino/costs-react",
+            "projectUrl": "fred-costs.netlify.app/",
+            "githubUrl": "github.com/frederico-rufino/costs-react",
             "description": "This project was developed following the course of Matheus Battisti."
         },
         {
-            "id": 14,
+            "id": 12,
             "name": "Portifólio - React",
             "tags": [
                 "html",
@@ -183,12 +156,12 @@
                 "rct"
             ],
             "imageName": "portifolioreact.png",
-            "projectUrl": "https://fred-rufino.netlify.app/",
-            "githubUrl": "https://github.com/frederico-rufino/react-portifolio",
+            "projectUrl": "fred-rufino.netlify.app/",
+            "githubUrl": "github.com/frederico-rufino/react-portifolio",
             "description": "This project was developed to expose projects in an easy and intuitive way."
         },
         {
-            "id": 15,
+            "id": 13,
             "name": "CarShop - Django + PostgreSQL",
             "tags": [
                 "html",
@@ -198,53 +171,53 @@
                 "dj"
             ],
             "imageName": "carshop.png",
-            "projectUrl": "https://carshopdjango.up.railway.app/",
-            "githubUrl": "https://github.com/frederico-rufino/django-carshop-postgreSQL",
-            "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list."
+            "projectUrl": "carshopdjango.up.railway.app/",
+            "githubUrl": "github.com/frederico-rufino/django-carshop-postgreSQL",
+            "description": "It is a system where it is possible to register new vehicles and display them in a stock list."
         },
         {
-            "id": 16,
+            "id": 14,
             "name": "Algorítimos de Ordenação - Java",
             "tags": [
                 "java"
             ],
             "imageName": "sorting.png",
-            "projectUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
-            "githubUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
+            "projectUrl": "github.com/frederico-rufino/java-sorting-algorithms",
+            "githubUrl": "github.com/frederico-rufino/java-sorting-algorithms",
             "description": "The logic of three algorithms was built, bubble sort, select sort and insert sort."
         },
         {
-            "id": 17,
+            "id": 15,
             "name": "Busca Binária - Java",
             "tags": [
                 "java"
             ],
             "imageName": "bseacrch.png",
-            "projectUrl": "https://github.com/frederico-rufino/java-binary-search",
-            "githubUrl": "https://github.com/frederico-rufino/java-binary-search",
+            "projectUrl": "github.com/frederico-rufino/java-binary-search",
+            "githubUrl": "github.com/frederico-rufino/java-binary-search",
             "description": "It was developed using the insert surt to order the numbers before to do a search."
         },
         {
-            "id": 18,
+            "id": 16,
             "name": "Estrutura em Árvore - Java",
             "tags": [
                 "java"
             ],
             "imageName": "tree.png",
-            "projectUrl": "https://github.com/frederico-rufino/java-tree-structure",
-            "githubUrl": "https://github.com/frederico-rufino/java-tree-structure",
+            "projectUrl": "github.com/frederico-rufino/java-tree-structure",
+            "githubUrl": "github.com/frederico-rufino/java-tree-structure",
             "description": "Algorithms were developed to fill a tree and traverse the tree in pre-order, post-order and in-order."
         },
         {
-            "id": 19,
+            "id": 17,
             "name": "Sistema de Postagens - MVC+CRUD+MySQL ",
             "tags": [
                 "php",
                 "html"
             ],
             "imageName": "mvc-php.png",
-            "projectUrl": "https://github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
-            "githubUrl": "https://github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
+            "projectUrl": "github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
+            "githubUrl": "github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
             "description": ""
         }
     ],
