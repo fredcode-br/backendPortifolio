@@ -201,6 +201,51 @@
             "projectUrl": "https://carshopdjango.up.railway.app/",
             "githubUrl": "https://github.com/frederico-rufino/django-carshop-postgreSQL",
             "description": "It is a system for a vehicle dealership where it is possible to register new vehicles and display them in a stock list."
+        },
+        {
+            "id": 16,
+            "name": "Algorítimos de Ordenação - Java",
+            "tags": [
+                "java"
+            ],
+            "imageName": "sorting.png",
+            "projectUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
+            "githubUrl": "https://github.com/frederico-rufino/java-sorting-algorithms",
+            "description": "The logic of three algorithms was built, bubble sort, select sort and insert sort. With the purpose of study, the language used to develop the codes was java."
+        },
+        {
+            "id": 17,
+            "name": "Busca Binária - Java",
+            "tags": [
+                "java"
+            ],
+            "imageName": "bseacrch.png",
+            "projectUrl": "https://github.com/frederico-rufino/java-binary-search",
+            "githubUrl": "https://github.com/frederico-rufino/java-binary-search",
+            "description": "Project developed to review a binary search algorithm. It was developed using the insert surt to order the numbers before to do a search."
+        },
+        {
+            "id": 18,
+            "name": "Estrutura em Árvore - Java",
+            "tags": [
+                "java"
+            ],
+            "imageName": "tree.png",
+            "projectUrl": "https://github.com/frederico-rufino/java-tree-structure",
+            "githubUrl": "https://github.com/frederico-rufino/java-tree-structure",
+            "description": "It was developed using java with purpose of study this language. Algorithms were developed to fill a tree and traverse the tree in pre-order, post-order and in-order."
+        },
+        {
+            "id": 19,
+            "name": "Sistema de Postagens - MVC+CRUD+MySQL ",
+            "tags": [
+                "php",
+                "html"
+            ],
+            "imageName": "mvc-php.png",
+            "projectUrl": "https://github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
+            "githubUrl": "https://github.com/frederico-rufino/MVC-CRUD-MySQL-PHP",
+            "description": ""
         }
     ],
     "skills": [
