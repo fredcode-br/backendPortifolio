@@ -177,7 +177,7 @@
         },
         {
             "id": 14,
-            "name": "Algorítimos de Ordenação - Java",
+            "name": "Ordenação - Java",
             "tags": [
                 "java"
             ],
@@ -199,7 +199,7 @@
         },
         {
             "id": 16,
-            "name": "Estrutura em Árvore - Java",
+            "name": "Árvore - Java",
             "tags": [
                 "java"
             ],
@@ -210,7 +210,7 @@
         },
         {
             "id": 17,
-            "name": "Sistema de Postagens - MVC+CRUD+MySQL ",
+            "name": "Postagen - MySQLs",
             "tags": [
                 "php",
                 "html"
