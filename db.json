@@ -225,14 +225,14 @@
         {
             "tag": "html",
             "name": "HTML",
-            "percentage": 70,
+            "percentage": 80,
             "color": "#FF6A00",
             "icon": "html.svg"
         },
         {
             "tag": "css",
             "name": "CSS",
-            "percentage": 70,
+            "percentage": 80,
             "color": "#3C52FF",
             "icon": "css.svg"
         },
@@ -246,7 +246,7 @@
         {
             "tag": "py",
             "name": "Python",
-            "percentage": 50,
+            "percentage": 40,
             "color": "#3C52AA",
             "icon": "python.svg"
         },
@@ -260,7 +260,7 @@
         {
             "tag": "php",
             "name": "PHP",
-            "percentage": 40,
+            "percentage": 60,
             "color": "#724ED4",
             "icon": "php.svg"
         },
